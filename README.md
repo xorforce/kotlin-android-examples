@@ -64,3 +64,6 @@ If you found this code demo helpful or you learned something today and want to t
 I made this repository after inspiration from this wonderful work by <a href="https://github.com/nisrulz/">nisrulz</a>. You can find his repo on following link:
 <br><br>
 <b>Link: </b>https://github.com/nisrulz/android-examples
+<br>
+The credit for top banner goes to <a href="https://github.com/xorforce/">Bhagat Singh</a> 
+<br>
